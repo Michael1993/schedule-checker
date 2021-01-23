@@ -1,0 +1,13 @@
+.scheduleItemOdd {
+    -fx-background-color: moccasin;
+}
+
+.scheduleItemEven {
+    -fx-background-color: paleturquoise;
+    -fx-color: white;
+}
+
+.redLine {
+    -fx-stroke: red;
+    -fx-stroke-width: 2;
+}
